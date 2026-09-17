@@ -7,6 +7,12 @@ on the Vibrant Ink theme for TextMate. Black background, saturated colors.
 Written in Lua for treesitter and LSP semantic tokens. Requires Neovim 0.10+ (rough estimate;
 compatibility not tested).
 
+![Rust](samples/rust_example.png)
+
+![TypeScript](samples/typescript_example.png)
+
+The source for both screenshots is in [`samples/`](samples/).
+
 ## Install
 
 With [lazy.nvim](https://github.com/folke/lazy.nvim):
