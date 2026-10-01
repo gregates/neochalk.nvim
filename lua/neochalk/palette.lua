@@ -14,7 +14,7 @@ return {
   khaki = "#AAAA77", -- Type
   moss = "#33AA00", -- Special
   sky = "#44B4CC", -- Regexp
-  lime = "#DDE93D", -- rubyMethod; only used for UI accents here
+  lime = "#BFFF94", -- rubyMethod; only used for UI accents here
   periwinkle = "#AACCFF", -- railsUserMethod, from vividchalk 1.x
   magenta = "#FF00FF", -- Title
   yellow = "#FFFF00", -- WildMenu
